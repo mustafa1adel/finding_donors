@@ -30,7 +30,7 @@ ipython notebook finding_donors.ipynb
 ```  
 or
 ```bash
-jupyter notebook finding_donors.ipynb
+jupyter-notebook finding_donors.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
